@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Runyu Gao"
-description              : " Focusing on Interdisciplinary Domains of AI Research. AI for Environments and Public Health."
+description              : "Focusing on Interdisciplinary Domains of AI Research. AI for Environments and Public Health."
 repository               : "runyugao/runyugao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
