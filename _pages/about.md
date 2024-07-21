@@ -40,4 +40,4 @@ Feel free to contact me via my email (rgao18@jhu.edu) if needed.
 
 
 # 💻 Internships
-- *2023.05 - 2023.010*, Research Intern, Center of Systems Science and Engineering, Johns Hopkins University, Baltimore.
+- *2023.05 - 2023.10*, Research Intern, Center of Systems Science and Engineering, Johns Hopkins University, Baltimore.
