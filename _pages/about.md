@@ -40,7 +40,7 @@ Feel free to contact me via my email (rgao18@jhu.edu) if needed.
 
 # 📖 Educations
 - *2024.08 - now*, Doctor of Philosophy (Ph.D.) in Systems Engineering, Johns Hopkins University, Baltimore. 
-- *2022.08 - 2024.05 (now)*, Master of Science (M.S.) in Systems Engineering, Johns Hopkins University, Baltimore. 
+- *2022.08 - 2024.05*, Master of Science (M.S.) in Systems Engineering, Johns Hopkins University, Baltimore. 
 - *2018.08 - 2021.08*, Bachelor of Science (B.S.) in Computer Science, Math Minor, University of Michigan, Ann Arbor. 
 
 
