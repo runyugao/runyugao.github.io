@@ -3,7 +3,7 @@
     "short_name": "",
     "icons": [
        {
-          "src": images/universityshield.png",
+          "src": "images/universityshield.png",
           "sizes": "215x230",
           "type": "image/png"
        },
