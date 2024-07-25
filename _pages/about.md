@@ -39,11 +39,14 @@ Feel free to contact me via my email (rgao18@jhu.edu) if needed.
 - ``IGARSS 2024`` Li, X., Gao, R., Burgi, P. M., Wald, D. J., & Xu, S. (2024). Optimizing Seismic Building Damage Assessment: Integrating Enhanced CDMS, Masking strategy, and Variational Bayesian Network. Oral at the 2024 IEEE International Geoscience and Remote Sensing Symposium.
 
 
-# 📖 Educations
+# 🎓 Educations
 - *2024.08 - now*, Doctor of Philosophy (Ph.D.) in Systems Engineering, Johns Hopkins University, Baltimore. 
 - *2022.08 - 2024.05*, Master of Science (M.S.) in Systems Engineering, Johns Hopkins University, Baltimore. 
 - *2018.08 - 2021.08*, Bachelor of Science (B.S.) in Computer Science, Math Minor, University of Michigan, Ann Arbor. 
 
 
-# 💻 Internships
+# 💼 Internships
 - *2023.05 - 2023.10*, Research Intern, Center of Systems Science and Engineering, Johns Hopkins University, Baltimore.
+
+# 📦 Data and Resources:
+- [Building Footprints Data and Processing Tutorial.](https://github.com/SusuXu/Building-Footprints-Merging-and-Improvement)
