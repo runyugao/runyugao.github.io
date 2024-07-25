@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. Student in Systems Engineering at the Department of Civil and Systems Engineering, Johns Hopkins University. My faculty advisor is Dr. Susu Xu. Before my PhD journey, I got my master's degree also from Johns Hopkins University and my bachelor's degree from the University of Michigan, Ann Arbor. 
 
-My research interests cross the interdisciplinary areas of artificial intelligence, environmental engineering, and public health. I mainly focus on developing interpretable, trustworthy, and fair AI systems for environmental health and public health. For example, I am trying to explore the roles of statistical learning, large language model and other kinds of AI/ML methods in responding natural disasters and public health crisis (like pandemics). Besides, I'm also interested in operations research methods to optimize urban infrastructure systems, aiming to create more efficient and sustainable cities.
+My research interests cross the interdisciplinary areas of artificial intelligence, environmental engineering, and public health. I mainly focus on developing interpretable, trustworthy, and fair AI systems for environmental health and public health. For example, I am trying to explore the roles of statistical learning, large language model and other kinds of AI/ML methods in responding natural disasters and public health crisis (like pandemics). Besides, I'm also interested in operations research and swarm control methods to optimize urban infrastructure systems, aiming to create more efficient and sustainable cities.
 
 Feel free to contact me via my email (rgao18@jhu.edu) if needed.
 
@@ -30,7 +30,7 @@ Feel free to contact me via my email (rgao18@jhu.edu) if needed.
 - Interpretable, Trustworthy and Fair AI for Public Health and Environmental Welfare.
 - Statistical Machine Learning to Estimate Disaster Cascading Damage Using Temporal Data.
 - Social Media Analysis using LLM for Natural Disaster and Public Health Crisis Response.
-- Operations Research for Urban Infrastructure Systems.
+- Operations Research and Multi-Agent Swarm Control for Urban Infrastructure Systems.
 
 # 📝 Publications 
 
