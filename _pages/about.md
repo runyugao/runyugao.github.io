@@ -23,16 +23,14 @@ My research interests cross the interdisciplinary areas of artificial intelligen
 
 Feel free to contact me via my email (rgao18@jhu.edu) if needed.
 
+# 🔥 News
+- *2024.08*: &nbsp;🎉🎉 I started my PhD program at Johns Hopkins University. 
+
 # 📚 Research Interests:
 - Interpretable, Trustworthy and Fair AI for Public Health and Environmental Welfare.
 - Statistical Machine Learning to Estimate Disaster Cascading Damage Using Temporal Data.
 - Social Media Analysis using LLM for Natural Disaster and Public Health Crisis Response.
 - Operations Research for Urban Infrastructure Systems.
-
-  
-# 🔥 News
-- *2024.08*: &nbsp;🎉🎉 I started my PhD program at Johns Hopkins University. 
-
 
 # 📝 Publications 
 
