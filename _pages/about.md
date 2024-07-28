@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. Student in Systems Engineering at the [Department of Civil and Systems Engineering](https://engineering.jhu.edu/case/), [Johns Hopkins University](http://jhu.edu). My faculty advisor is Dr. Susu Xu ([Webpage](http://susu-xu.com)). Before my PhD journey, I got my master's degree also from [Johns Hopkins University](http://jhu.edu) and my bachelor's degree from [the University of Michigan, Ann Arbor](https://umich.edu). 
+I am a Ph.D. Student in Systems Engineering at the [Department of Civil and Systems Engineering](https://engineering.jhu.edu/case/), [Johns Hopkins University](http://jhu.edu). My faculty advisor is Dr. Susu Xu ([Webpage](http://susu-xu.com)). Before my PhD journey, I got my master's degree also from [Johns Hopkins University](http://jhu.edu) and my bachelor's degree from the [University of Michigan, Ann Arbor](https://umich.edu). 
 
 My research interests cross the interdisciplinary areas of artificial intelligence, environmental engineering, and public health. I mainly focus on developing interpretable, trustworthy, and fair AI systems for environmental health and public health. For example, I am trying to explore the roles of statistical learning, large language model and other kinds of AI/ML methods in responding natural disasters and public health crisis (like pandemics). Besides, I'm also interested in operations research and swarm control methods to optimize urban infrastructure systems, aiming to create more efficient and sustainable cities.
 
-Feel free to contact me via my email (rgao18@jhu.edu) if needed.
+Feel free to contact me via my email ([rgao18@jhu.edu](rgao18@jhu.edu)) if needed.
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 I started my PhD program at Johns Hopkins University. 
