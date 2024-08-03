@@ -48,7 +48,7 @@ Feel free to contact me via my email ([rgao18@jhu.edu](rgao18@jhu.edu)) if neede
 
 
 # 🧑‍🏫 Teachings
-- *Spring 2024*, EN.533.636 - Introduction to Data Science, Teaching Assistant, Johns Hopkins University.
+- *Spring 2024*, EN.533.636 - Introduction to Data Science, Teaching Assistant.
 
 
 # 📦 Data and Resources:
