@@ -46,6 +46,11 @@ Feel free to contact me via my email ([rgao18@jhu.edu](rgao18@jhu.edu)) if neede
 # 💼 Internships
 - *2023.05 - 2023.10*, Research Intern, Center of Systems Science and Engineering, Johns Hopkins University, Baltimore.
 
+
+# 🧑‍🏫 Teachings
+- *Spring 2024*, EN.533.636 - Introduction to Data Science, Teaching Assistant, Johns Hopkins University.
+
+
 # 📦 Data and Resources:
 - [Building Footprints Data and Processing Tutorial.](https://github.com/SusuXu/Building-Footprints-Merging-and-Improvement)
 - TikTok Social Media Data Collection and Processing API Tools.
