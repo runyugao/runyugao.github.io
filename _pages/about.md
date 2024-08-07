@@ -28,7 +28,7 @@ Feel free to contact me via my email ([rgao18@jhu.edu](rgao18@jhu.edu)) if neede
 
 # 📚 Research Interests:
 - Interpretable, Trustworthy and Fair AI for Public Health and Environmental Welfare.
-- Statistical Machine Learning to Estimate Disaster Cascading Damage Using Temporal Data.
+- Statistical Machine Learning to Estimate Disaster Cascading Damage Using Spatio-Temporal Data.
 - Social Media Analysis using LLM for Natural Disaster and Public Health Crisis Response.
 - Operations Research and Multi-Agents Swarm Control for Urban Infrastructure Systems.
 
